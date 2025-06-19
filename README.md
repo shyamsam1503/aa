@@ -1,42 +1,46 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background: #f4f4f4;
-  color: #333;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  Shyam Bheesetty | Cybersecurity Portfolio
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Shyam Bheesetty</h1>
+    <p>Cybersecurity Enthusiast | SOC Analyst | Red Team Learner</p>
+  </header>
 
-header {
-  background: #0a192f;
-  color: white;
-  padding: 40px 0;
-  text-align: center;
-}
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a cybersecurity graduate with hands-on experience in network traffic analysis, IDS tools, and penetration testing labs. Passionate about defending digital infrastructure and constantly learning new tech!</p>
+  </section>
 
-section {
-  padding: 20px;
-  margin: 0 auto;
-  max-width: 800px;
-}
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <strong>🔍 Nmap Automation Tool</strong><br/>
+        Python script to automate network scans and detect suspicious hosts. <br/>
+        <a href="https://github.com/YOURUSERNAME/Nmap-Automation-Threat-Detection" target="_blank">View on GitHub</a>
+      </li>
+      <li>
+        <strong>🛡️ Red Team vs Blue Team Lab</strong><br/>
+        Offensive & defensive virtual lab for security analysis.<br/>
+        <a href="https://github.com/YOURUSERNAME/RedTeam-BlueTeam-Lab" target="_blank">View on GitHub</a>
+      </li>
+    </ul>
+  </section>
 
-h2 {
-  color: #0a192f;
-  border-bottom: 2px solid #64ffda;
-  padding-bottom: 5px;
-}
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: shyamb@example.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/YOURPROFILE" target="_blank">View Profile</a></p>
+  </section>
 
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-footer {
-  background: #0a192f;
-  color: white;
-  text-align: center;
-  padding: 10px 0;
-  margin-top: 40px;
-}
+  <footer>
+    <p>© 2025 Shyam Bheesetty | Built with 💻</p>
+  </footer>
+</body>
+</html>
