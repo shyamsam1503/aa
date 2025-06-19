@@ -3,18 +3,40 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  Shyam Bheesetty | Cybersecurity Portfolio
+  Cybersecurity is much more than a matter of IT
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <h1>Shyam Bheesetty</h1>
-    <p>Cybersecurity Enthusiast | SOC Analyst | Red Team Learner</p>
+    <h2>About Me</h2>
+    <p> 👋 Hi there! I'm Shyam Bheesetty
+
+🎯 I’m a cybersecurity enthusiast with a Post Graduate Diploma in Cybersecurity and a Bachelor’s in Computer Science. I’m passionate about protecting digital assets, solving complex problems, and learning continuously in the fast-evolving world of IT security.
+
+🛡️ I specialize in network traffic analysis, vulnerability assessments, intrusion detection systems, and firewall configurations. I’ve worked with tools like Wireshark, Snort, pfSense, Splunk, Microsoft Defender, and more.
+
+💻 I’m currently building my Red Team vs Blue Team lab projects to sharpen my offensive and defensive security skills.
+
+📈 I also bring experience in IT support, system installation, and warehouse operations, with a strong focus on process efficiency and system reliability.
+
+🔧 Certifications:
+- ✅ CompTIA Security+ <a href="https://www.credly.com/badges/29cc02f9-0b09-4e25-8f08-a76dd234c9b0/linked_in?t=skxwmvk">View Certificate</a></p>
+- ✅ Google Cybersecurity Professional Certificate <a href="https://www.coursera.org/account/accomplishments/professional-cert/2ZIR2LQ4VBEC?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">View Certificate</a></p>
+- ✅ Splunk Search Expert 101 <a href="https://coursera.org/share/c5edf36306cb857f98c7e9eabac0a996">View Certificate</a></p>
+- ✅ Wireshark for Basic Network Security Analysis <a href="https://coursera.org/share/fcd0040f342cfa77aeb7d9ee2146e5ce">View Certificate</a></p>
+- ✅ UpGrad CyberSecurity PRofessional
+- ✅ Introduction to CyberArk Privileged Access Management
+
+🚀 My goal is to become a skilled SOC Analyst or DFIR specialist and contribute to building secure, resilient systems.
+ 
+
+🔗 Fun Fact: I love trying out cybersecurity challenges (HackTheBox, TryHackMe)
+ </p>
   </header>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I’m a cybersecurity graduate with hands-on experience in network traffic analysis, IDS tools, and penetration testing labs. Passionate about defending digital infrastructure and constantly learning new tech!</p>
+  
+
   </section>
 
   <section id="projects">
@@ -34,8 +56,8 @@
   </section>
 
   <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: shyamb@example.com</p>
+    <h2>📫 Let’s connect</h2>
+    <p>Email: shyambheesetty@gmail.com</p>
     <p>LinkedIn: <a href="https://linkedin.com/in/SHYAMSETTY" target="_blank">View Profile</a></p>
   </section>
 
