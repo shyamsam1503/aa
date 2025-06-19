@@ -36,7 +36,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email: shyamb@example.com</p>
-    <p>LinkedIn: <a href="https:www.linkedin.com/in/shyamsetty">View Profile</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/SHYAMSETTY" target="_blank">View Profile</a></p>
   </section>
 
   <footer>
